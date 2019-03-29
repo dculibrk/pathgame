@@ -1,3 +1,3 @@
 [submodule "pathgamefts"]
-	path = pathgamefts
+	path = webapp
 	url = https://dculibrk@bitbucket.org/dculibrk/pathgamefts.git
