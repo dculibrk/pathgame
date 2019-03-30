@@ -1,3 +1,6 @@
 [submodule "pathgamefts"]
 	path = pathgamefts
 	url = https://dculibrk@bitbucket.org/dculibrk/pathgamefts.git
+[submodule "pathgameweb"]
+	path = pathgameweb
+	url = https://github.com/dculibrk/pathgameweb.git
